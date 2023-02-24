@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T15:26:20.626Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41" etag="lTvneXEt_uJTgDHpAaXy" version="20.8.23" type="github"><diagram name="Page-1" id="6d5e41h9tubrzw9sDfa3">tZTBasMwDIafJsdBEtPS87pu3WCDNYfCbl6i2gYnDo46J336uYucNITCxuglSJ9kS/4lErF12T5ZXstXU4CO0rhoI/YQpelqFfvvGXQ9WCQEhFVFj5IRZOoEBEPaURXQTBLRGI2qnsLcVBXkOGHcWuOmaQejp1VrLmAGspzrOd2rAiU9axGPfAtKyFA5iSlS8pBMoJG8MO4CsU3E1tYY7K2yXYM+axd06c89XokOjVmo8FcHtofTy/vn3rUfu1aLbPdWL+/oli+uj/TgTInKk+eKusYuSNE4VWpeee/eSYWQ1Tw/h5wfvGcSS+29xJsNcos0y5R5QFXAIrRX208GUfwygSkBbedTwoEl6diFBSHfjWNJA5MXIxkgp1UQw92jWt4gwf4gXjoTbwdCNWg5KvMf/W4gF1vcUC7vjnv8E7v4GbDNNw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-24T17:09:39.096Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41" etag="zD-hplkLp8Z7-r39Dpi4" version="20.8.23" type="github">
+  <diagram name="Page-1" id="6d5e41h9tubrzw9sDfa3">
+    <mxGraphModel dx="2107" dy="1829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1HfzJQbWwxZRxlgSRNp6-1" value="Sign In" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
+          <mxGeometry x="380" y="-50" width="110" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1HfzJQbWwxZRxlgSRNp6-2" value="Registration" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="150" width="110" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="3VPQQbortNeCf64qUWys-2" value="User Dashboard" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-350" width="200" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="3VPQQbortNeCf64qUWys-3" value="Publisher Dashboard" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-80" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3VPQQbortNeCf64qUWys-4" value="Support Dashboard" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="210" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3VPQQbortNeCf64qUWys-5" value="Home Page" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="10" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3VPQQbortNeCf64qUWys-18" value="Splash Screen" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="10" width="200" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
