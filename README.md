@@ -1,6 +1,12 @@
 <h1 align="center">Bonjour 👋, I'm Khan MD Saifullah Anjar</h1>
 <h3 align="center">Developing And Leaning New Technologies For Fun ✌</h3>
 
+<p align="left>As a Computer Science student at Brac University, I'm on a mission to turn my passion for technology into a thriving career. With experience in mobile app development using Flutter, and cross-platform development, I am excited to explore the world of web development with HTML, CSS, React, and the MERN Stack.
+
+I thrive on learning new technologies and tackling complex projects. I believe that challenges are opportunities to learn, grow, and improve my skills, and I'm not afraid to push my limits.
+
+With a keen interest in the future of AI and Web3, I'm always on the lookout for innovative ways to incorporate these emerging technologies into my work. When I'm not coding, you'll find me exploring new tech trends, playing video games, or indulging in a good book.</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmsanjar47&label=Profile%20views&color=000000&style=flat" alt="kmsanjar47" /> </p>
 
 <h3 align="left">Connect with me:</h3>
