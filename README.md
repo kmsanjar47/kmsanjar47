@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour 👋, I'm Khan MD Saifullah Anjar</h1>
 <h3 align="center">Developing And Leaning New Technologies For Fun ✌</h3>
 
-<p>As a Computer Science student , I'm on a mission to turn my passion for technology into a thriving career. With experience in mobile app development using Flutter, and platform specific mobile app technologies, I am currently exploring the world of web development with HTML, CSS, React, and the overall MERN Stack
+<p>As a Computer Science student , I'm on a mission to turn my passion for technology into a thriving career. With experience in mobile app development using Flutter, and platform specific mobile app technologies, I am currently exploring the world of Machine Learning and web3 Development.
 
 I thrive on learning new technologies and tackling complex projects. I believe that challenges are opportunities to learn, grow, and improve my skills, and I'm not afraid to push my limits.
 
